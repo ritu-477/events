@@ -1,0 +1,6 @@
+:root{}
+@media(max-width:576px) {
+    .fs-25 {
+        font-size: 25px;
+    }
+}
